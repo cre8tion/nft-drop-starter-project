@@ -1,0 +1,19 @@
+{
+    "name": "SN 3",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6pujRjpeWEwepQ8TyMf3GpUQaX449SF2yjY12SZ8Jwy2",
+          "share": 100
+        }
+      ]
+    }
+}

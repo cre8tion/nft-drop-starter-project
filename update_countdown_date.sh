@@ -1,0 +1,1 @@
+ts-node ~/metaplex-foundation/metaplex/js/packages/cli/src/candy-machine-cli.ts update_candy_machine --date "1 Dec 2022 00:12:00 GMT" --env devnet --keypair ~/.config/solana/devnet.json
